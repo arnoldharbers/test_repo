@@ -1,1 +1,2 @@
 mine.txt is a simple text file
+with another line
